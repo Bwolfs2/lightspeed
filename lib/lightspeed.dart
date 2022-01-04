@@ -1,7 +1,4 @@
 library lightspeed;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/build_controller.dart';
+export 'src/extensions.dart';
